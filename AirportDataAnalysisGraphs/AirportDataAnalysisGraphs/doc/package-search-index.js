@@ -1,1 +1,0 @@
-packageSearchIndex = [{"m":"AirportDataAnalysisGraphs","l":"AirportDataAnalysisGraphs"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();

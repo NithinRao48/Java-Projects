@@ -1,0 +1,46 @@
+Top n cities with accidents,Time in nano seconds ,,
+Number,MaxHeapArray,MaxHeapLinkedList,MaxHeapPQ
+50,1891100,17902600,266600
+10,1432700,8554000,273300
+2,501000,809700,125400
+100,5131000,70928700,725700
+,,,
+,,,
+Least n cities with accidents,,,
+Number,MinHeapArray,MinHeapLinkedList,MinHeapPQ
+50,98400,11232300,516100
+10,174600,6592500,569100
+2,204100,2522500,168600
+100,173900,37401600,1459600
+,,,
+Top n days with accidents,,,
+Number,MaxHeapArray,MaxHeapLinkedList,MaxHeapPQ
+7,799300,220300,66000
+5,390000,197100,27000
+3,178100,192600,34900
+2,214200,101600,5100
+1,84300,84000,5500
+,,,
+Least n days with accidents,,,
+Number,MinHeapArray,MinHeapLinkedList,MinHeapPQ
+7,480800,432100,24900
+5,420800,262800,9400
+3,136400,132200,6200
+2,124800,131700,8100
+1,681400,82600,5600
+,,,
+Top n ageGroup with accidents,,,
+Number,MaxHeapArray,MaxHeapLinkedList,MaxHeapPQ
+6,172100,195200,9500
+5,273000,188900,6200
+4,147300,126900,4500
+3,154900,161600,7000
+1,95700,99400,6400
+,,,
+Least n age group with accidents,,,
+Number,MinHeapArray,MinHeapLinkedList,MinHeapPQ
+6,129800,159900,9000
+5,272300,169400,5600
+4,251800,150700,7300
+3,100400,153700,7000
+1,110200,90800,5900
